@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shasqiasyahnaz
 - 👀 I’m interested in urban and regional planning
-- 🌱 I’m currently learning geospatial mammping
+- 🌱 I’m currently learning geospatial mapping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
